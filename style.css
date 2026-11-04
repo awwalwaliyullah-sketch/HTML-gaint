@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+    background-color:#201313;
+    font-family: Helvetica;
+
+;}
+
+.div{width:50%;
+    justify-self: center;
+    color: #ffffff;
+    padding: 30px;
+    margin: 0px;
+}
+
+
+h1{
+    font-size: 30px;
+    color:#FAF9F9;
+    font-weight: bold;
+}
+
+
+
+h2{
+    font-size: 20px;
+    color: #e0f4b3;
+    font-weight: bold;
+}
+
+
+u{  
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.div2 h2 u:hover{  
+    font-size: 40px;
+    color: goldenrod;
+    text-decoration: none;
+    cursor: pointer;}
+
+
+p{
+    font-size: 25px;
+    color: #FAF9F9;
+    font-weight: bold;
+}
+
+.div p a{color: #FFE7A3;}
+
+
+
+.div p a:hover{
+    color: goldenrod;
+    text-decoration: none;}
+
+
+.div2{width:50%;
+    gap: 40PX;
+    justify-self: center;
+    color: #ffffff;
+    padding: 30px;
+    margin: 0px;
+}
+
+
+.div2 span a{
+    padding:12px;
+    justify-self: center;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 3px;
+    border-radius: 25px;
+    outline: groove;
+}
+
+
+.div2 span a:first-child{
+    padding:12px;
+    justify-self: center;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 3px;
+    border-radius: 25px;
+}
+
+
+
+
+.div2 span a:hover{
+    padding:12px;
+    justify-self: center;
+    color: black;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 25px;
+    outline: groove;
+    background-color: rgb(234, 234, 31);
+}
+
+
+.div2 p h{color: #fadd58;}
+
+
+.div2 p h:hover{
+    color: goldenrod;
+    cursor: pointer;
+    text-decoration: none;}
